@@ -1,5 +1,9 @@
 # 💫 About Me:
-:<br><br>👨‍💻 Currently Working On:<br>Developing a Myntra Clone e-commerce website using HTML, CSS, JavaScript.<br>Building an Image Background Remover tool with real-time processing using JavaScript and Canvas API.<br>🤝 Looking to Collaborate On:<br>Full-Stack Development projects involving React, JavaScript, and databases like MongoDB and SQL.<br>Open-source contributions in web development and image processing tools.<br>💡 Looking for Help With:<br>Optimizing React and JavaScript for scalable web applications.<br>Enhancing my skills in SQL and MongoDB for large-scale projects.<br>📚 Currently Learning:<br>Data Structures and Algorithms (DSA) through solving challenges on Leetcode.<br>Expanding my knowledge of Java from internship experiences.<br>
+:<br><br>👨‍💻 CuI am a Computer Science Engineering student (B.E., Dr. Bhimrao Ambedkar University, Agra) with a strong foundation in software development, data structures, and algorithms. I have hands-on experience building full-stack web applications and responsive websites using modern technologies such as React, Redux, Node.js, Express, and MongoDB. My projects include developing a Myntra clone and a machine learning-powered road connectivity optimizer with Google Maps API integration.
+
+I am passionate about problem-solving and have solved 200+ problems on LeetCode, participating in coding challenges to sharpen my skills. I have also completed internships in website design & development and Java programming, and hold certifications in Web Development Design and Cybersecurity.
+
+With proficiency in Python, C++, and JavaScript, and strong knowledge of Operating Systems, DBMS, Computer Networks, and Software Engineering, I aim to leverage my technical skills to create scalable, user-focused solutions.<br>
 
 
 ## 🌐 Socials:
