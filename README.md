@@ -37,9 +37,6 @@ With proficiency in Python, C++, and JavaScript, and strong knowledge of Operati
 ![](https://github-readme-stats.vercel.app/api?username=Ankityadav6386&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ankityadav6386&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankityadav6386&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=Ankityadav6386&theme=merko&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ankityadav6386&theme=merko&hide_border=false)<br/>
-![](
 
 
 ---
