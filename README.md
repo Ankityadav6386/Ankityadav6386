@@ -1,13 +1,9 @@
 # 💫 About Me:
-:<br><br>👨‍💻 I am a Computer Science Engineering student (B.E., Dr. Bhimrao Ambedkar University, Agra) with a strong foundation in software development, data structures, and algorithms. I have hands-on experience building full-stack web applications and responsive websites using modern technologies such as React, Redux, Node.js, Express, and MongoDB. My projects include developing a Myntra clone and a machine learning-powered road connectivity optimizer with Google Maps API integration.
+:<br><br>👨‍💻 I am a Computer Science Engineering student (B.E., Dr. Bhimrao Ambedkar University, Agra) with a Data Analyst passionate about finding patterns in data and turning them into clear, actionable insights. I work with tools like Excel, SQL, Power BI, and Python to explore data, build dashboards, and solve real problems.
 
-I am passionate about problem-solving and have solved 200+ problems on LeetCode, participating in coding challenges to sharpen my skills. I have also completed internships in website design & development and Java programming, and hold certifications in Web Development Design and Cybersecurity.
+I enjoy end-to-end projects — from cleaning and analyzing datasets to visualizing results that help drive smarter decisions.
 
-With proficiency in Python, C++, and JavaScript, and strong knowledge of Operating Systems, DBMS, Computer Networks, and Software Engineering, I aim to leverage my technical skills to create scalable, user-focused solutions.<br>
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100060318817484) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_ankit_a_15?igsh=OWxpMHZqN3Awc2w2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/ankit2313) 
+I’m constantly learning, currently focusing on advanced Power BI dashboards and predictive analytics using Python.<br>
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -32,6 +28,9 @@ With proficiency in Python, C++, and JavaScript, and strong knowledge of Operati
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100060318817484) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_ankit_a_15?igsh=OWxpMHZqN3Awc2w2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/ankit2313) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ankityadav6386&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
