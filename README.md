@@ -1,5 +1,5 @@
 # 💫 About Me:
-:<br><br>👨‍💻 I am a Computer Science Engineering student (B.E., Dr. Bhimrao Ambedkar University, Agra) with a Data Analyst passionate about finding patterns in data and turning them into clear, actionable insights. I work with tools like Excel, SQL, Power BI, and Python to explore data, build dashboards, and solve real problems.
+<br><br>👨‍💻 I am a Computer Science Engineering student (B.E., Dr. Bhimrao Ambedkar University, Agra) with a Data Analyst passionate about finding patterns in data and turning them into clear, actionable insights. I work with tools like Excel, SQL, Power BI, and Python to explore data, build dashboards, and solve real problems.
 
 I enjoy end-to-end projects — from cleaning and analyzing datasets to visualizing results that help drive smarter decisions.
 
